@@ -10,7 +10,7 @@ class CTScanImageSpider(scrapy.Spider):
 
   def parse(self, response):
     url = response.url
-    page = url.split('/')[-1]
+    page = url.split('//')[-1].split('/')[0]
     filename = 'image-%s' %page
     print('URL is: {}'.format(url))
     with open(filename, 'wb') as file:

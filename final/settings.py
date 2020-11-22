@@ -11,6 +11,8 @@ BOT_NAME = 'final'
 
 SPIDER_MODULES = ['final.spiders']
 NEWSPIDER_MODULE = 'final.spiders'
+# DEPTH_LIMIT = 3
+CLOSESPIDER_TIMEOUT = 10
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
