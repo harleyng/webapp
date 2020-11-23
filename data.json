@@ -1,69 +1,252 @@
 {
-  "COVID-19: case 1": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 2": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 3": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 4": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg",
-  "COVID-19: case 5": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg",
-  "COVID-19: case 6": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg",
-  "COVID-19: case 7": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg",
-  "COVID-19: case 9": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg",
-  "COVID-19: case 10": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 11": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 12": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 13": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 14": "https://www.sirm.org/wp-content/uploads/2020/03/DBB4184F-4D76-4EDC-AAAD-08369732024F-741x486.jpeg",
-  "COVID-19: case 15": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg",
-  "COVID-19: case 16": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 17": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 18": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 19": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 20": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 21": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 22": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 23": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 24": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 25": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 26": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 27": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 28": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 29": "https://www.sirm.org/wp-content/uploads/2020/03/DBB4184F-4D76-4EDC-AAAD-08369732024F-741x486.jpeg",
-  "COVID-19: case 30": "https://www.sirm.org/wp-content/uploads/2020/03/DBB4184F-4D76-4EDC-AAAD-08369732024F-741x486.jpeg",
-  "COVID-19: case 31": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 32": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 33": "https://www.sirm.org/wp-content/uploads/2020/03/DBB4184F-4D76-4EDC-AAAD-08369732024F-741x486.jpeg",
-  "COVID-19: case 34": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 35": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 36": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 37": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 38": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 39": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 40": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 41": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 42": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 43": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 44": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 45": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 46": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 47": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 48 mini pediatric serial cases": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 49": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 50": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 51": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 52": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 53": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 54": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 55": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 56": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 57": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 58": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 59": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 60": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 61": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 62": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 63": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 64": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 65": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 66": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 67": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg",
-  "COVID-19: case 68": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+  "img": [
+    {
+      "title": "COVID-19: case 58",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 30",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 9",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 44",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 22",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 55",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 65",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 47",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 51",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 28",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 24",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 64",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 62",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 68",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 67",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 66",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 63",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 61",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 60",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 59",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 57",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 56",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 43",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 42",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 41",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 40",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 39",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 38",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 37",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 36",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 35",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 1",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 54",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 53",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 52",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 50",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 49",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 48 mini pediatric serial cases",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 46",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 45",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 7",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 15",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 31",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/B59DD164-51D5-40DF-A926-6A42DD52EBE8-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 23",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/B59DD164-51D5-40DF-A926-6A42DD52EBE8-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 16",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/B59DD164-51D5-40DF-A926-6A42DD52EBE8-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 26",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 10",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 17",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 32",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 18",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 34",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 11",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 29",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
+    },
+    {
+      "title": "COVID-19: case 21",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 20",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 19",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 14",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 13",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 12",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 33",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 27",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    },
+    {
+      "title": "COVID-19: case 25",
+      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
+    }
+  ]
 }

@@ -4,7 +4,14 @@ from scrapy.exceptions import CloseSpider
 from collections import OrderedDict
 import json 
 
-imageList = {}
+# class Image:
+#     def __init__(self, title, src):
+#       self.title= title
+#       self.src = src
+#     def __repr__(self):
+#       return "C(" + repr(self.attribute) + ")"
+imageList = {'img': []}
+
 class CTScanImageSpider(CrawlSpider):
   name = 'endless'
   allowed_domains = ['sirm.org']
@@ -16,6 +23,18 @@ class CTScanImageSpider(CrawlSpider):
                 follow=True)]
   # COUNT_MAX = 5
   count = 0
+
+  def check_exist(self, value):
+    value = str(value)
+    for i in range(len(imageList['img'])):
+      if (value in imageList['img'][i]['title']):
+        return True
+
+  # def custom_sort(self , item):
+  #   print('hi', int(''.join(i for i in item['title'] if i.isdigit())))
+  #   return int(''.join(i for i in item['title'] if i.isdigit()))
+    
+
   def parse_image(self,response):
     self.count = self.count + 1
     print("-------------------", self.count)
@@ -23,20 +42,25 @@ class CTScanImageSpider(CrawlSpider):
       url = response.url.split('//')[-1]
       titles = response.xpath('//a[@class="td-image-wrap"]/img/@title').extract()
       srcs = response.xpath('//a[@class="td-image-wrap"]/img/@data-img-url').extract()
-      # limit = 10
       # scraped_count = imageList.count()
-      print('url: {}'.format(url))
-      print('Page Title: {}'.format(titles))
-      print('Page image: {}'.format(srcs))
+      # print('url: {}'.format(url))
+      # print('Page Title: {}'.format(titles))
+      # print('Page image: {}'.format(srcs))
       for src in srcs:
         for title in titles:
-          if ((title not in imageList) and (title.startswith('COVID-19: case'))):
-            imageList[title] = src
+          # print('Page Title: {}'.format(title))
+          # print('Page image: {}'.format(src))
+          if ((not(self.check_exist(value=title))) and (title.startswith('COVID-19: case'))):
+            imageList['img'].append({
+              'title': title,
+              'src': src
+            }) 
             # print('List: {}'.format(imageList.items()))
-            imageListOrdered = OrderedDict(sorted(imageList.items(), key=lambda x: int("".join([i for i in x[0] if i.isdigit()]))))
-            print('list:' ,imageListOrdered)
+            # lambda item: int("".join([char for char in item.title if char.isdigit()]))
+            # imageListOrdered = OrderedDict(sorted(imageList['img'], key=self.custom_sort))
+            # print('list:' ,imageListOrdered)
             with open('data.json', 'w') as outfile:
-              json.dump(imageListOrdered, outfile, indent=2)
+              json.dump(imageList, outfile, indent=2)
     else:
       print('exit')
       raise CloseSpider(reason='API usage exceeded')
