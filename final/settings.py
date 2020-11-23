@@ -12,7 +12,7 @@ BOT_NAME = 'final'
 SPIDER_MODULES = ['final.spiders']
 NEWSPIDER_MODULE = 'final.spiders'
 # DEPTH_LIMIT = 3
-CLOSESPIDER_TIMEOUT = 20
+# CLOSESPIDER_TIMEOUT = 100
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -22,7 +22,7 @@ CLOSESPIDER_TIMEOUT = 20
 ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS = 32
+# CONCURRENT_REQUESTS = 1
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay

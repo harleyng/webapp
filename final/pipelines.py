@@ -10,4 +10,6 @@ from itemadapter import ItemAdapter
 
 class FinalPipeline:
     def process_item(self, item, spider):
+        # if some_flag:
+        #     spider.close_down = True
         return item
