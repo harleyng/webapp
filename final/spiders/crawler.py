@@ -11,23 +11,24 @@ class CTScanImageSpider(CrawlSpider):
   rules = [Rule(LinkExtractor(allow=r'.*'), 
                 callback='parse_image',
                 follow=True)]
-  COUNT_MAX = 5
+  # COUNT_MAX = 5
   count = 0
   def parse_image(self,response):
     self.count = self.count + 1
     print("-------------------", self.count)
-    if (self.count < self.COUNT_MAX):
-      url = response.url.split('//')[-1]
-      src = response.xpath('//a[@class="td-image-wrap"]/img/@src').extract()
-      # limit = 10
-      # scraped_count = imageList.count()
-      print('Page URL: {}'.format(url))
-      print('Page image: {}'.format(src))
+    # if (self.count < self.COUNT_MAX):
+    url = response.url.split('//')[-1]
+    src = response.xpath('//a[@class="td-image-wrap"]/img/@data-img-url').extract()
+    # limit = 10
+    # scraped_count = imageList.count()
+    print('Page URL: {}'.format(url))
+    print('Page image: {}'.format(src))
+    if (src):
       imageList.append({
-        'pageURL': url,
-        'imageSrc': src
+      'pageURL': url,
+      'imageSrc': src
       })
       with open('data.txt', 'a') as outfile:
         json.dump(imageList, outfile, indent=2)
-    else:
-      return
+    # else:
+    #   return
