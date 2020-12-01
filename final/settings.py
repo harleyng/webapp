@@ -13,7 +13,20 @@ SPIDER_MODULES = ['final.spiders']
 NEWSPIDER_MODULE = 'final.spiders'
 # DEPTH_LIMIT = 3
 # CLOSESPIDER_TIMEOUT = 100
+DOWNLOAD_DELAY = 10
 
+# ...
+SPLASH_URL = 'http://localhost:8050'
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy_splash.SplashCookiesMiddleware': 723,
+    'scrapy_splash.SplashMiddleware': 725,
+    'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
+}
+SPIDER_MIDDLEWARES = {
+    'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
+}
+DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
+# ...
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'final (+http://www.yourdomain.com)'
