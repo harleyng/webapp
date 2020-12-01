@@ -1,252 +1,858 @@
 {
-  "img": [
-    {
-      "title": "COVID-19: case 58",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 30",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 9",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 44",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 22",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 55",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 65",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 47",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 51",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 28",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 24",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 64",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 62",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/2B8649B2-00C4-4233-85D5-1CE240CF233B-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 68",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 67",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 66",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 63",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 61",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 60",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 59",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 57",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 56",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 43",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 42",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 41",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 40",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 39",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 38",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 37",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 36",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 35",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 1",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 54",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 53",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 52",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 50",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 49",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 48 mini pediatric serial cases",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 46",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 45",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 7",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 15",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0A64A210-B1D2-475E-9C72-C0B587A2309F-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 31",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/B59DD164-51D5-40DF-A926-6A42DD52EBE8-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 23",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/B59DD164-51D5-40DF-A926-6A42DD52EBE8-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 16",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/B59DD164-51D5-40DF-A926-6A42DD52EBE8-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 26",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 10",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 17",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 32",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/80446565-E090-4187-A031-9D3CEAA586C8-741x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 18",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 34",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 11",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 29",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/0B3A478A-F070-4D66-AEF6-1BC0BF5A8857-512x486.jpeg"
-    },
-    {
-      "title": "COVID-19: case 21",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 20",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 19",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 14",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 13",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 12",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 33",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 27",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    },
-    {
-      "title": "COVID-19: case 25",
-      "src": "https://www.sirm.org/wp-content/uploads/2020/03/RX-torace-a-letto-del-paziente-in-unica-proiezione-AP-1-1.jpeg"
-    }
-  ]
+  "Case 1": {
+    "presentation": "Productive cough with a sore throat for 1 week, no fever or chest pain, traveling to Macau from Wuhan 3 days prior, denied close contact with wet market.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 2": {
+    "presentation": "Fever, shortness of breath, desaturation.",
+    "age": " 75 years\n",
+    "gender": " Female\n"
+  },
+  "Case 3": {
+    "presentation": "Dry cough and fever. On arrival to Emergency Room, SpO2 of 89% and lymphopenia.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 4": {
+    "presentation": "New oxygen demands and bibasal crepitations.",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 5": {
+    "presentation": "Elderly male, COVID-19 positive. Fever and elevated C-reactive protein.",
+    "age": [],
+    "gender": []
+  },
+  "Case 6": {
+    "presentation": "Dry cough, chest pain and dyspnea",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 7": {
+    "presentation": "Admitted to ED with shortness of breath",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 8": {
+    "presentation": "Presented to ED with respiratory distress and dyspnea",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 9": {
+    "presentation": "Fever and dyspnea for five days. Recent travel.",
+    "age": " 60 years\n",
+    "gender": " Female\n"
+  },
+  "Case 10": {
+    "presentation": "Fever, cough and shortness of breath.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 11": {
+    "presentation": "Fever, cough and shortness of breath.",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 12": {
+    "presentation": "Fever and cough.",
+    "age": " 35 years\n",
+    "gender": " Male\n"
+  },
+  "Case 13": {
+    "presentation": "Fever, dyspnea, cough and sputum production.",
+    "age": " 18 months\n",
+    "gender": " Male\n"
+  },
+  "Case 14": {
+    "presentation": "Fever and cough.",
+    "age": " 30 years\n",
+    "gender": " Female\n"
+  },
+  "Case 15": {
+    "presentation": "Productive cough with a sore throat for 1 week, no fever or chest pain, traveling to Macau from Wuhan 3 days prior, denied close contact with wet market.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 16": {
+    "presentation": "Fever and cough.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 17": {
+    "presentation": "Shortness of breath and myalgia.",
+    "age": " 65 years\n",
+    "gender": []
+  },
+  "Case 18": {
+    "presentation": "Fever, shortness of breath, desaturation.",
+    "age": " 75 years\n",
+    "gender": " Female\n"
+  },
+  "Case 19": {
+    "presentation": "Dry cough, chest pain and dyspnea",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 20": {
+    "presentation": "Admitted to ED with shortness of breath",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 21": {
+    "presentation": "Productive cough, dyspnea, and chest pain that started 12 days ago.",
+    "age": " 85 years\n",
+    "gender": " Female\n"
+  },
+  "Case 22": {
+    "presentation": "Dry cough and fever. On arrival to Emergency Room, SpO2 of 89% and lymphopenia.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 23": {
+    "presentation": "New oxygen demands and bibasal crepitations.",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 24": {
+    "presentation": "Elderly male, COVID-19 positive. Fever and elevated C-reactive protein.",
+    "age": [],
+    "gender": []
+  },
+  "Case 25": {
+    "presentation": "Fever, cough, breathing difficulties for about ten days.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 26": {
+    "presentation": "Fever, dyspnea, cough and sputum production.",
+    "age": " 18 months\n",
+    "gender": " Male\n"
+  },
+  "Case 27": {
+    "presentation": "Fever, cough and shortness of breath.",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 28": {
+    "presentation": "Fever and cough.",
+    "age": " 35 years\n",
+    "gender": " Male\n"
+  },
+  "Case 29": {
+    "presentation": "Fever and cough.",
+    "age": " 30 years\n",
+    "gender": " Female\n"
+  },
+  "Case 30": {
+    "presentation": "Fever, cough and shortness of breath.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 31": {
+    "presentation": "Fever and cough.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 32": {
+    "presentation": "Presented to ED with respiratory distress and dyspnea",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 33": {
+    "presentation": "This patient presented a history of high fever, cough, difficulty expanding the lungs, and dyspnea for eight days.",
+    "age": " 35 years \n",
+    "gender": " Male\n"
+  },
+  "Case 34": {
+    "presentation": "Short of breath.   No history of respiratory disease.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 35": {
+    "presentation": "This patient presented with a sore throat, persistent cough, dizziness, and fever for 15 days. She also had Hypotension, desaturation, and elevation of D-Dimer.",
+    "age": " 70\n",
+    "gender": " Female\n"
+  },
+  "Case 36": {
+    "presentation": "This patient presented to the emergency department with a six-day history of flu-like symptoms, persistent fever, cough, and respiratory distress.",
+    "age": " 60 years\n",
+    "gender": " Male\n"
+  },
+  "Case 37": {
+    "presentation": "Shortness of breath and myalgia.",
+    "age": " 65 years\n",
+    "gender": []
+  },
+  "Case 38": {
+    "presentation": "Fever for 48 hours.",
+    "age": " 60 years\n",
+    "gender": " Male\n"
+  },
+  "Case 39": {
+    "presentation": "Fever and dyspnea for five days. Recent travel.",
+    "age": " 60 years\n",
+    "gender": " Female\n"
+  },
+  "Case 40": {
+    "presentation": "Shortness of breath, fever, cough.",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 41": {
+    "presentation": "Fever, cough, breathing difficulties for about ten days.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 42": {
+    "presentation": "Admitted to ED with fever and shortness of breath",
+    "age": " 55 years\n",
+    "gender": " Female\n"
+  },
+  "Case 43": {
+    "presentation": "Fever with cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 44": {
+    "presentation": "This patient presented with fever, associated cough, and shortness of breath (dyspnea ++) for a week. He denies a sore throat.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 45": {
+    "presentation": "Fever and sore throat for few days. No history of recent travel.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 46": {
+    "presentation": "Productive cough, dyspnea, and chest pain that started 12 days ago.",
+    "age": " 85 years\n",
+    "gender": " Female\n"
+  },
+  "Case 47": {
+    "presentation": "Fever, cough and fatigue ",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 48": {
+    "presentation": "Fever, cough and shortness of breath on arrival patient saturation of oxygen was 75%",
+    "age": " 45 years\n",
+    "gender": []
+  },
+  "Case 49": {
+    "presentation": "This patient presented a history of high fever, cough, difficulty expanding the lungs, and dyspnea for eight days.",
+    "age": " 35 years \n",
+    "gender": " Male\n"
+  },
+  "Case 50": {
+    "presentation": "Fever and chest pain for three days.",
+    "age": " 35 years\n",
+    "gender": " Male\n"
+  },
+  "Case 51": {
+    "presentation": "Fever, cough and breath shortness in a known patient with old tuberculosis.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 52": {
+    "presentation": "Fever and cough.",
+    "age": " 35 years\n",
+    "gender": " Male\n"
+  },
+  "Case 53": {
+    "presentation": "This patient presented with a sore throat, persistent cough, dizziness, and fever for 15 days. She also had Hypotension, desaturation, and elevation of D-Dimer.",
+    "age": " 70\n",
+    "gender": " Female\n"
+  },
+  "Case 54": {
+    "presentation": "Fever and mild cough.\r\n",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 55": {
+    "presentation": "Short of breath.   No history of respiratory disease.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 56": {
+    "presentation": "Shortness of breath, fever, cough.",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 57": {
+    "presentation": "This patient presented with fever, associated cough, and shortness of breath (dyspnea ++) for a week. He denies a sore throat.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 58": {
+    "presentation": "Fever for 48 hours.",
+    "age": " 60 years\n",
+    "gender": " Male\n"
+  },
+  "Case 59": {
+    "presentation": "Fever and dyspnea from 5 days ago.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 60": {
+    "presentation": "This patient presented to the emergency department with a six-day history of flu-like symptoms, persistent fever, cough, and respiratory distress.",
+    "age": " 60 years\n",
+    "gender": " Male\n"
+  },
+  "Case 61": {
+    "presentation": "Fever with cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 62": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 63": {
+    "presentation": "Admitted to ED with fever and shortness of breath",
+    "age": " 55 years\n",
+    "gender": " Female\n"
+  },
+  "Case 64": {
+    "presentation": "Fever and sore throat for few days. No history of recent travel.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 65": {
+    "presentation": "Fever and cough.",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 66": {
+    "presentation": "Fever, cough and fatigue ",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 67": {
+    "presentation": "Fever and chest pain for three days.",
+    "age": " 35 years\n",
+    "gender": " Male\n"
+  },
+  "Case 68": {
+    "presentation": "Fever and cough.",
+    "age": " 35 years\n",
+    "gender": " Male\n"
+  },
+  "Case 69": {
+    "presentation": "Fever, cough and shortness of breath on arrival patient saturation of oxygen was 75%",
+    "age": " 45 years\n",
+    "gender": []
+  },
+  "Case 70": {
+    "presentation": "Admitted with choledocholithiasis. COVID-19 contact. SARS-CoV-2 negative PCR on admission. Three days later cough and fever. ",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 71": {
+    "presentation": "Fever and mild cough.\r\n",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 72": {
+    "presentation": "An asymptomatic patient traveled from France to Algeria 4 days ago and was in contact with a positive COVID-19 patient.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 73": {
+    "presentation": "Dyspnea from 4 days ago.",
+    "age": " 80 years\n",
+    "gender": " Female\n"
+  },
+  "Case 74": {
+    "presentation": "Fever and dry cough for 4 days.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 75": {
+    "presentation": "Cough, shortness of breath and fever",
+    "age": " 40 years\n",
+    "gender": " Male\n"
+  },
+  "Case 76": {
+    "presentation": "Shortness of breath. O2 requirement. Rule out consolidation/ COVID.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 77": {
+    "presentation": "Fever, cough and breath shortness in a known patient with old tuberculosis.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 78": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 79": {
+    "presentation": "Fever and dyspnea from 5 days ago.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 80": {
+    "presentation": "Fever and cough.",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 81": {
+    "presentation": "Patient presents with odynophagia and cough.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 82": {
+    "presentation": "The patient with cough, temperature, dyspnea and headache.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 83": {
+    "presentation": "Routine CT thorax/abdomen follow up for oncologic treatment of a GI tract cancer. No known metastases. The patient was clinically well.",
+    "age": " 60 years\n",
+    "gender": " Female\n"
+  },
+  "Case 84": {
+    "presentation": "Fever and dyspnea since three days ago.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 85": {
+    "presentation": "Admitted with choledocholithiasis. COVID-19 contact. SARS-CoV-2 negative PCR on admission. Three days later cough and fever. ",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 86": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 87": {
+    "presentation": "Fever and dry cough for 4 days.",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 88": {
+    "presentation": "An asymptomatic patient traveled from France to Algeria 4 days ago and was in contact with a positive COVID-19 patient.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 89": {
+    "presentation": "Three days of high-grade fever with dry cough.",
+    "age": " 40 years\n",
+    "gender": " Male\n"
+  },
+  "Case 90": {
+    "presentation": "Brought to the ER due to general discomfort, dysthermic sensation although without fever, dizziness for 1 week, and associating bilious vomiting today. No cough, although he complained of dyspnea. No contact with positive COVID-19 patients or recent trips outside Spain. Previously in the same month, he attended the ER concerning a foot ulcer.",
+    "age": " 80 years\n",
+    "gender": " Male\n"
+  },
+  "Case 91": {
+    "presentation": "Shortness of breath. O2 requirement. Rule out consolidation/ COVID.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 92": {
+    "presentation": "Fever and cough.",
+    "age": " 55 years\n",
+    "gender": " Female\n"
+  },
+  "Case 93": {
+    "presentation": "Fever and cough.",
+    "age": " 45 years\n",
+    "gender": " Female\n"
+  },
+  "Case 94": {
+    "presentation": "Fever, cough and breath shortness.",
+    "age": " 65 years\n",
+    "gender": " Female\n"
+  },
+  "Case 95": {
+    "presentation": "Fever and cough.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 96": {
+    "presentation": "Dyspnea from 4 days ago.",
+    "age": " 80 years\n",
+    "gender": " Female\n"
+  },
+  "Case 97": {
+    "presentation": "Cough, shortness of breath and fever",
+    "age": " 40 years\n",
+    "gender": " Male\n"
+  },
+  "Case 98": {
+    "presentation": "The patient with cough, temperature, dyspnea and headache.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 99": {
+    "presentation": "Fever and dyspnea since three days ago.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 100": {
+    "presentation": "Fever and cough.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 101": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 102": {
+    "presentation": "Routine CT thorax/abdomen follow up for oncologic treatment of a GI tract cancer. No known metastases. The patient was clinically well.",
+    "age": " 60 years\n",
+    "gender": " Female\n"
+  },
+  "Case 103": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 104": {
+    "presentation": "The patient presented on account of fever and urine symptoms 3 days  ago. Currently on antibiotics noted to start coughing with drop in his saturations today. Also having high grade fever COVID 19 swab taken today ",
+    "age": [],
+    "gender": []
+  },
+  "Case 105": {
+    "presentation": "Brought to the ER due to general discomfort, dysthermic sensation although without fever, dizziness for 1 week, and associating bilious vomiting today. No cough, although he complained of dyspnea. No contact with positive COVID-19 patients or recent trips outside Spain. Previously in the same month, he attended the ER concerning a foot ulcer.",
+    "age": " 80 years\n",
+    "gender": " Male\n"
+  },
+  "Case 106": {
+    "presentation": "Fever and cough.",
+    "age": " 55 years\n",
+    "gender": " Female\n"
+  },
+  "Case 107": {
+    "presentation": "Three days of high-grade fever with dry cough.",
+    "age": " 40 years\n",
+    "gender": " Male\n"
+  },
+  "Case 108": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 109": {
+    "presentation": "Fever and cough.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 110": {
+    "presentation": "Fever and cough.",
+    "age": " 60 years\n",
+    "gender": " Female\n"
+  },
+  "Case 111": {
+    "presentation": "Three days cough, myalgias and fever. No recent overseas travel. Only sick contact was her husband who was recently hospitalized with presumed community-acquired pneumonia but not tested for COVID-19.  Past history of vascath in-situ for dialysis on a background of chronic end-stage renal failure with dysfunctional A-V fistula. ",
+    "age": " 70\n",
+    "gender": " Female\n"
+  },
+  "Case 112": {
+    "presentation": "Fever, cough and breath shortness.",
+    "age": " 65 years\n",
+    "gender": " Female\n"
+  },
+  "Case 113": {
+    "presentation": "Cough from 3 days ago.",
+    "age": " 55 years\n",
+    "gender": " Female\n"
+  },
+  "Case 114": {
+    "presentation": "Fever and cough.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 115": {
+    "presentation": "Patient presents with odynophagia and cough.",
+    "age": " 45 years\n",
+    "gender": " Male\n"
+  },
+  "Case 116": {
+    "presentation": "Recent onset of dry cough, severe dyspnea, fever and fatigue.",
+    "age": " 85 years\n",
+    "gender": " Male\n"
+  },
+  "Case 117": {
+    "presentation": "Fever and cough.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 118": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 119": {
+    "presentation": "Four-day history of high-grade fever, cough and myalgia. On admission, the patient was tachycardic but maintained oxygen saturation on low flow. On auscultation, he had bilateral crackles and crepitations.\r\n",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 120": {
+    "presentation": "PC: Dyspnea and fever.\r\nBG: Asthma, Cerebral palsy.\r\n\r\nClinically high risk on admission",
+    "age": " 30 years\n",
+    "gender": " Female\n"
+  },
+  "Case 121": {
+    "presentation": "The patient presented on account of fever and urine symptoms 3 days  ago. Currently on antibiotics noted to start coughing with drop in his saturations today. Also having high grade fever COVID 19 swab taken today ",
+    "age": [],
+    "gender": []
+  },
+  "Case 122": {
+    "presentation": "Fever and non-productive cough start from 5 days ago.",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 123": {
+    "presentation": "Fever and cough.",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 124": {
+    "presentation": "Fever, cough and dyspnea for 3 days.\r\nTachypnea (30-40/min) and saturation of 70%. CRP 190 mg/L.\r\nNo relevant medical history.",
+    "age": " 35 years\n",
+    "gender": " Female\n"
+  },
+  "Case 125": {
+    "presentation": "Fever and cough.",
+    "age": " 60 years\n",
+    "gender": " Female\n"
+  },
+  "Case 126": {
+    "presentation": "Fever and cough.",
+    "age": " 45 years\n",
+    "gender": " Female\n"
+  },
+  "Case 127": {
+    "presentation": "Fever and cough.",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 128": {
+    "presentation": "Worsening dyspnea. Past history of COPD. T2DM. Previous pancreatectomy. ETOH excess. Lymphopenia on admission.",
+    "age": " 85 years\n",
+    "gender": " Male\n"
+  },
+  "Case 129": {
+    "presentation": "Fever, cough and chest pain from 5 days ago.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 130": {
+    "presentation": "Cough from 3 days ago.",
+    "age": " 55 years\n",
+    "gender": " Female\n"
+  },
+  "Case 131": {
+    "presentation": "Three days cough, myalgias and fever. No recent overseas travel. Only sick contact was her husband who was recently hospitalized with presumed community-acquired pneumonia but not tested for COVID-19.  Past history of vascath in-situ for dialysis on a background of chronic end-stage renal failure with dysfunctional A-V fistula. ",
+    "age": " 70\n",
+    "gender": " Female\n"
+  },
+  "Case 132": {
+    "presentation": "Four-day history of high-grade fever, cough and myalgia. On admission, the patient was tachycardic but maintained oxygen saturation on low flow. On auscultation, he had bilateral crackles and crepitations.\r\n",
+    "age": " 65 years\n",
+    "gender": " Male\n"
+  },
+  "Case 133": {
+    "presentation": "PC: Dyspnea and fever.\r\nBG: Asthma, Cerebral palsy.\r\n\r\nClinically high risk on admission",
+    "age": " 30 years\n",
+    "gender": " Female\n"
+  },
+  "Case 134": {
+    "presentation": "Fever and cough.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 135": {
+    "presentation": "Four-day history of dry cough, myalgia, pyrexia and sore throat. Admitted to hospital for worsening dyspnea. No past medical history. \r\n",
+    "age": " 35 years\n",
+    "gender": " Female\n"
+  },
+  "Case 136": {
+    "presentation": "Recent onset of dry cough, severe dyspnea, fever and fatigue.",
+    "age": " 85 years\n",
+    "gender": " Male\n"
+  },
+  "Case 137": {
+    "presentation": "Marked dyspnea with dry cough and high fever for about nine days",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 138": {
+    "presentation": "One week history of fever, dysuria. Presents to the ER with abdominal pain and nausea. No respiratory symptoms. Fever and elevated CRP. Hyperlipidemia and hypertension. ",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 139": {
+    "presentation": "Fever, fatigue, dry cough and shortness of breath for 7 days. Traveled from Italy to Ukraine",
+    "age": " 40 years\n",
+    "gender": " Male\n"
+  },
+  "Case 140": {
+    "presentation": "Fever and cough.",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 141": {
+    "presentation": "Attended the emergency department for progressive dyspnea in the last few days along with fever and cough. On the blood test, lymphopenia is detected. ",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 142": {
+    "presentation": "Patient admitted for heart failure. Developed fever and dyspnea during hospitalization. ",
+    "age": [
+      "\n  ",
+      " Adult\n"
+    ],
+    "gender": " Female\n"
+  },
+  "Case 143": {
+    "presentation": "Fever and non-productive cough start from 5 days ago.",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 144": {
+    "presentation": "Fever and cough for a few days.",
+    "age": " 80\n",
+    "gender": " Male\n"
+  },
+  "Case 145": {
+    "presentation": "Fever, cough and dyspnea for 3 days.\r\nTachypnea (30-40/min) and saturation of 70%. CRP 190 mg/L.\r\nNo relevant medical history.",
+    "age": " 35 years\n",
+    "gender": " Female\n"
+  },
+  "Case 146": {
+    "presentation": "Fever for ten days with dry cough, shortness of breath and abdominal pain with diarrhea",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 147": {
+    "presentation": "Fever, cough and chest pain from 5 days ago.",
+    "age": " 50 years\n",
+    "gender": " Female\n"
+  },
+  "Case 148": {
+    "presentation": "This middle aged man attended the emergency room for a dysthymic sensation 2-3 times a day, breathing difficulty and dry cough. In the complementary tests, only lymphopenia and elevated CRP stand out.  Therefore, no coronavirus test was performed because he did not meet epidemiological criteria and the patient was discharged. ",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 149": {
+    "presentation": "Worsening dyspnea. Past history of COPD. T2DM. Previous pancreatectomy. ETOH excess. Lymphopenia on admission.",
+    "age": " 85 years\n",
+    "gender": " Male\n"
+  },
+  "Case 150": {
+    "presentation": "Recent travel from endemic COVID-19 region. 24 hours confusion with new temperature and desaturation on assessment.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 151": {
+    "presentation": "Six days self-isolating with fever. Progressive respiratory effort. Lymphopenic on presentation (1.2).",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 152": {
+    "presentation": "Fever and dyspnea.\r\n\r\n",
+    "age": " 25 years\n",
+    "gender": " Male\n"
+  },
+  "Case 153": {
+    "presentation": "An elderly male presenting with fever and cough.\r\n\r\n",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 154": {
+    "presentation": "Fever and two days of odynophagia; positive test for SARS-CoV-2 RNA.",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 155": {
+    "presentation": "Fever, fatigue, dry cough and shortness of breath for 7 days. Traveled from Italy to Ukraine",
+    "age": " 40 years\n",
+    "gender": " Male\n"
+  },
+  "Case 156": {
+    "presentation": "Marked dyspnea with dry cough and high fever for about nine days",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 157": {
+    "presentation": "One week history of fever, dysuria. Presents to the ER with abdominal pain and nausea. No respiratory symptoms. Fever and elevated CRP. Hyperlipidemia and hypertension. ",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 158": {
+    "presentation": "Attended the emergency department for progressive dyspnea in the last few days along with fever and cough. On the blood test, lymphopenia is detected. ",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 159": {
+    "presentation": "Fever and odynophagia. Trip to Italy 7 days ago.\r\n\r\nLow oxygen saturation (SpO2 89%) and lymphopenia were observed.\r\n\r\nThe patient presented clinical worsening during his stay in the emergency department, and radiological control was performed at 12 hours.\r\n\r\nSARS-CoV-2 RNA was detected.",
+    "age": " 60 years\n",
+    "gender": " Male\n"
+  },
+  "Case 160": {
+    "presentation": "Fever and cough for a few days.",
+    "age": " 80\n",
+    "gender": " Male\n"
+  },
+  "Case 161": {
+    "presentation": "Patient admitted for heart failure. Developed fever and dyspnea during hospitalization. ",
+    "age": [
+      "\n  ",
+      " Adult\n"
+    ],
+    "gender": " Female\n"
+  },
+  "Case 162": {
+    "presentation": "Four-day history of dry cough, myalgia, pyrexia and sore throat. Admitted to hospital for worsening dyspnea. No past medical history. \r\n",
+    "age": " 35 years\n",
+    "gender": " Female\n"
+  },
+  "Case 163": {
+    "presentation": "Recent travel from endemic COVID-19 region. 24 hours confusion with new temperature and desaturation on assessment.",
+    "age": " 70 years\n",
+    "gender": " Male\n"
+  },
+  "Case 164": {
+    "presentation": "This middle aged man attended the emergency room for a dysthymic sensation 2-3 times a day, breathing difficulty and dry cough. In the complementary tests, only lymphopenia and elevated CRP stand out.  Therefore, no coronavirus test was performed because he did not meet epidemiological criteria and the patient was discharged. ",
+    "age": " 50 years\n",
+    "gender": " Male\n"
+  },
+  "Case 165": {
+    "presentation": "Fever and dyspnea.\r\n\r\n",
+    "age": " 25 years\n",
+    "gender": " Male\n"
+  },
+  "Case 166": {
+    "presentation": "Fever for ten days with dry cough, shortness of breath and abdominal pain with diarrhea",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 167": {
+    "presentation": "Six days self-isolating with fever. Progressive respiratory effort. Lymphopenic on presentation (1.2).",
+    "age": " 55 years\n",
+    "gender": " Male\n"
+  },
+  "Case 168": {
+    "presentation": "An elderly male presenting with fever and cough.\r\n\r\n",
+    "age": " 75 years\n",
+    "gender": " Male\n"
+  },
+  "Case 169": {
+    "presentation": "Fever and two days of odynophagia; positive test for SARS-CoV-2 RNA.",
+    "age": " 70 years\n",
+    "gender": " Female\n"
+  },
+  "Case 170": {
+    "presentation": "Fever and odynophagia. Trip to Italy 7 days ago.\r\n\r\nLow oxygen saturation (SpO2 89%) and lymphopenia were observed.\r\n\r\nThe patient presented clinical worsening during his stay in the emergency department, and radiological control was performed at 12 hours.\r\n\r\nSARS-CoV-2 RNA was detected.",
+    "age": " 60 years\n",
+    "gender": " Male\n"
+  }
 }
