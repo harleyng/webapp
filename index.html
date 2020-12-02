@@ -1,36 +1,49 @@
-<!DOCTYPE html>
 <html>
+<head>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+        <script src="./index.js"></script>
+        <title>COVID-19 NEWS</title>
+</head>
+
 <body>
+        <div class="wrapper">
+        <div class="profile">
+        <table id= "news" border="2">
+                <thead>
+                    <th>Case</th>
+                    <th>Presentation</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>Tilte</th>
+                    <th>Img</th>
+                    <th>Title</th>
+                    <th>Img</th>
+                </thead>
+            <tbody></tbody>
+        </table>
 
-<h2>Use the XMLHttpRequest to get the content of a file.</h2>
-<p>The content is written in JSON format, and can easily be converted into a JavaScript object.</p>
-
-<p id="demo"></p>
-
-<script>
-var xmlhttp = new XMLHttpRequest();
-xmlhttp.overrideMimeType("application/json");
-xmlhttp.open("GET", "data.json", true);
-
-xmlhttp.setRequestHeader('Access-Control-Allow-Origin', '*');
-
-
-// xmlhttp.setRequestHeader('X-PINGOTHER', 'pingpong');
-// xmlhttp.setRequestHeader('Content-Type', 'application/xml');
-xmlhttp.onreadystatechange = function() {
-  if (this.readyState == 4 && this.status == 200) {
-    var myObj = JSON.parse(this.responseText);
-    myObj.forEach(obj => {
-      console.log(obj.presentation);
-      console.log(obj.age);
-      console.log(obj.gender);
-    });
-    document.getElementById("demo").innerHTML = obj.presentation + obj.age + obj.gender
-  }
-};
-xmlhttp.send();
-</script>
-
-
+        </div>
+        </div>
 </body>
+<script>
+  $(document).ready(function() {
+    $.getJSON('data.json', function(data){
+        console.log(data)
+        var img = '';
+        for (var obj in data) {
+          img += '<tr>';
+          // img += '<td>'+value.case+'</td>';
+          img += '<td>'+data[obj].presentation+'</td>';
+          img += '<td>'+data[obj].age+'</td>';
+          img += '<td>'+data[obj].gender+'</td>';
+          for (let i = 0; i < data[obj].img.length; i++) {
+            img += '<td>'+data[obj].img[i]['title']+'</td>';
+            img += '<td><img src="'+data[obj].img[i]['src']+'"></td>';
+          }
+          img += '</tr>';
+        }
+        $(img).appendTo("#news tbody");
+    });
+});
+</script>
 </html>
