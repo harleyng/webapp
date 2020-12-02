@@ -13,7 +13,7 @@ SPIDER_MODULES = ['final.spiders']
 NEWSPIDER_MODULE = 'final.spiders'
 # DEPTH_LIMIT = 3
 # CLOSESPIDER_TIMEOUT = 100
-DOWNLOAD_DELAY = 10
+DOWNLOAD_DELAY = 8
 
 # ...
 SPLASH_URL = 'http://localhost:8050'

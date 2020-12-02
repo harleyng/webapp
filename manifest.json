@@ -1,0 +1,7 @@
+
+{
+  "name": "My extension",
+  "permissions": [
+    "data.json"
+  ],
+}

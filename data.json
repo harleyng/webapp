@@ -18,48 +18,175 @@
   },
   "Case 2": {
     "presentation": [
-      "Cough from 3 days ago."
+      "Fever and cough for a few days."
     ],
-    "age": " 55 years\n",
-    "gender": " Female\n",
+    "age": " 80\n",
+    "gender": " Male\n",
     "img": [
       {
         "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52144208/30ff39dba0fe3c5617058a6a2ac87f_big_gallery.jpeg"
+        "src": "https://prod-images-static.radiopaedia.org/images/52221785/78331427ccc2886655edf78d6a7c3e_big_gallery.jpeg"
       }
     ]
   },
   "Case 3": {
     "presentation": [
-      "Fever and cough."
+      "Attended the emergency department for progressive dyspnea in the last few days along with fever and cough. On the blood test, lymphopenia is detected. "
     ],
-    "age": " 50 years\n",
-    "gender": " Female\n",
+    "age": " 55 years\n",
+    "gender": " Male\n",
     "img": [
       {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52298403/96522a73af8618e508cdbafc0acb95_big_gallery.jpeg"
+        "title": "Chest",
+        "src": "https://prod-images-static.radiopaedia.org/images/52221946/8e98ec22ee304b4fb7b5434276bb79_jumbo.jpeg"
       }
     ]
   },
   "Case 4": {
     "presentation": [
-      "Worsening dyspnea. Past history of COPD. T2DM. Previous pancreatectomy. ETOH excess. Lymphopenia on admission."
+      "This middle aged man attended the emergency room for a dysthymic sensation 2-3 times a day, breathing difficulty and dry cough. In the complementary tests, only lymphopenia and elevated CRP stand out.  Therefore, no coronavirus test was performed because he did not meet epidemiological criteria and the patient was discharged. "
     ],
-    "age": " 85 years\n",
+    "age": " 50 years\n",
     "gender": " Male\n",
     "img": [
       {
-        "title": "Three days later",
-        "src": "https://prod-images-static.radiopaedia.org/images/52252099/be3f3f15e9cae046a755dc9473848c_jumbo.jpeg"
+        "title": "Day 1",
+        "src": "https://prod-images-static.radiopaedia.org/images/52216849/32a46f77ff2a5acc2168b20b974cf8_jumbo.jpeg"
       },
       {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52252100/0da264b842da6b0ac6e2e6f1da72f6_big_gallery.jpeg"
+        "title": "Day 1",
+        "src": "https://prod-images-static.radiopaedia.org/images/52216851/b4da827908ad8209137382e301cc24_jumbo.jpeg"
+      },
+      {
+        "title": "Day 1",
+        "src": "https://prod-images-static.radiopaedia.org/images/52216852/b418d50351b48ee58bcb4c2841e95b_jumbo.jpeg"
+      },
+      {
+        "title": "Day 4",
+        "src": "https://prod-images-static.radiopaedia.org/images/52216853/4d844df58f10acb17fc50351fd9440_jumbo.jpeg"
       }
     ]
   },
   "Case 5": {
+    "presentation": [
+      "An elderly male presenting with fever and cough.\n\n"
+    ],
+    "age": " 75 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Day 1 chest x-ray",
+        "src": "https://prod-images-static.radiopaedia.org/images/52198249/bc4aafa5ad0aaa24a92afe73b06e74_jumbo.jpeg"
+      },
+      {
+        "title": "Day 1 chest x-ray",
+        "src": "https://prod-images-static.radiopaedia.org/images/52198251/9ad688b362b011bd3f7503799515ef_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 6": {
+    "presentation": [
+      "Fever and two days of odynophagia; positive test for SARS-CoV-2 RNA."
+    ],
+    "age": " 70 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "On admission",
+        "src": "https://prod-images-static.radiopaedia.org/images/52197350/58cb9263f16e94305c730685358e4e_jumbo.jpeg"
+      },
+      {
+        "title": "On admission",
+        "src": "https://prod-images-static.radiopaedia.org/images/52197352/9fdd3c3032296fd04d2cad5d9070d4_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 7": {
+    "presentation": [
+      "Fever and odynophagia. Trip to Italy 7 days ago.\n\nLow oxygen saturation (SpO2 89%) and lymphopenia were observed.\n\nThe patient presented clinical worsening during his stay in the emergency department, and radiological control was performed at 12 hours.\n\nSARS-CoV-2 RNA was detected."
+    ],
+    "age": " 60 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "On admission",
+        "src": "https://prod-images-static.radiopaedia.org/images/52197347/a36d7944927e369c90035d4fcbb7af_jumbo.jpeg"
+      },
+      {
+        "title": "12 hours later",
+        "src": "https://prod-images-static.radiopaedia.org/images/52197349/c02786050656210c20eb86d3bc0d48_jumbo.jpeg"
+      },
+      {
+        "title": "Three days later",
+        "src": "https://prod-images-static.radiopaedia.org/images/52197348/df1053d3e8896b53ef140773e10e26_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 8": {
+    "presentation": [
+      "Fever, shortness of breath, desaturation."
+    ],
+    "age": " 75 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "AP sitting",
+        "src": "https://prod-images-static.radiopaedia.org/images/52192468/201b87f9902cce6732917d2f292bd3_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 9": {
+    "presentation": [
+      "Dry cough, chest pain and dyspnea"
+    ],
+    "age": " 45 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52141355/64319e81ba4e074e0a485a661000eb_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 10": {
+    "presentation": [
+      "Recent travel from endemic COVID-19 region. 24 hours confusion with new temperature and desaturation on assessment."
+    ],
+    "age": " 70 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Index CXR",
+        "src": "https://prod-images-static.radiopaedia.org/images/52212995/8a7486782d3933ccd9aefbce323169_jumbo.jpeg"
+      },
+      {
+        "title": "Day 3 CXR",
+        "src": "https://prod-images-static.radiopaedia.org/images/52212997/af5e777fb7200430ddf3de394afc39_jumbo.jpeg"
+      },
+      {
+        "title": "Worsening oxygenation - day 9 CXR",
+        "src": "https://prod-images-static.radiopaedia.org/images/52212998/e7b1991f06f384ff09224d006b4042_jumbo.jpeg"
+      },
+      {
+        "title": "Day 13 - performed to assess degree of lung injury",
+        "src": "https://prod-images-static.radiopaedia.org/images/52213036/b08b025a70a7e0d7318ad1232a1ff7_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 11": {
+    "presentation": [
+      "Elderly male, COVID-19 positive. Fever and elevated C-reactive protein."
+    ],
+    "age": [],
+    "gender": [],
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52180311/8549249b763152e944d3ad092a2a2d_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 12": {
     "presentation": [
       "Shortness of breath and myalgia."
     ],
@@ -80,7 +207,7 @@
       }
     ]
   },
-  "Case 7": {
+  "Case 13": {
     "presentation": [
       "Productive cough, dyspnea, and chest pain that started 12 days ago."
     ],
@@ -93,7 +220,54 @@
       }
     ]
   },
-  "Case 8": {
+  "Case 14": {
+    "presentation": [
+      "This patient presented with a sore throat, persistent cough, dizziness, and fever for 15 days. She also had Hypotension, desaturation, and elevation of D-Dimer."
+    ],
+    "age": " 70\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52517944/6d3ec88203d38541c47655485fdfb2_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 15": {
+    "presentation": [
+      "This patient presented a history of high fever, cough, difficulty expanding the lungs, and dyspnea for eight days."
+    ],
+    "age": " 35 years \n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52527747/0dd647f4911312e8cf6ac99d1f92b1_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 16": {
+    "presentation": [
+      "Six days self-isolating with fever. Progressive respiratory effort. Lymphopenic on presentation (1.2)."
+    ],
+    "age": " 55 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Index CXR",
+        "src": "https://prod-images-static.radiopaedia.org/images/52213151/a092a272b78ce7c23e6a490721b750_jumbo.jpeg"
+      },
+      {
+        "title": "CXR 12h after presentation",
+        "src": "https://prod-images-static.radiopaedia.org/images/52213152/11368d1bfb309b273d60a7138dae35_jumbo.jpeg"
+      },
+      {
+        "title": "CXR day 6",
+        "src": "https://prod-images-static.radiopaedia.org/images/52213153/7848bf2d6be7318bf1457253990d25_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 17": {
     "presentation": [
       "Short of breath.   No history of respiratory disease."
     ],
@@ -122,7 +296,33 @@
       }
     ]
   },
-  "Case 9": {
+  "Case 18": {
+    "presentation": [
+      "This patient presented to the emergency department with a six-day history of flu-like symptoms, persistent fever, cough, and respiratory distress."
+    ],
+    "age": " 60 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52542600/129cfca04057d55dadf5c8023f90d8_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 19": {
+    "presentation": [
+      "Fever for 48 hours."
+    ],
+    "age": " 60 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52437448/10b54db94f62bc04f9864611d3763c_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 20": {
     "presentation": [
       "Fever and sore throat for few days. No history of recent travel."
     ],
@@ -135,7 +335,24 @@
       }
     ]
   },
-  "Case 10": {
+  "Case 21": {
+    "presentation": [
+      "Dry cough and fever. On arrival to Emergency Room, SpO2 of 89% and lymphopenia."
+    ],
+    "age": " 70 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Two days earlier",
+        "src": "https://prod-images-static.radiopaedia.org/images/52197344/61c6828be4bb24b9e29e6ebfcfec0a_jumbo.jpeg"
+      },
+      {
+        "title": "Two days earlier",
+        "src": "https://prod-images-static.radiopaedia.org/images/52197345/e493ebb5ce513a0ad49237f008595b_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 22": {
     "presentation": [
       "This patient presented with fever, associated cough, and shortness of breath (dyspnea ++) for a week. He denies a sore throat."
     ],
@@ -148,7 +365,7 @@
       }
     ]
   },
-  "Case 11": {
+  "Case 23": {
     "presentation": [
       "Fever, cough and shortness of breath on arrival patient saturation of oxygen was 75%"
     ],
@@ -161,20 +378,115 @@
       }
     ]
   },
-  "Case 12": {
+  "Case 24": {
     "presentation": [
-      "Three days of high-grade fever with dry cough."
+      "Fever and chest pain for three days."
+    ],
+    "age": " 35 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52437218/fee45ce125d36d8cb957c735085e66_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 25": {
+    "presentation": [
+      "An asymptomatic patient traveled from France to Algeria 4 days ago and was in contact with a positive COVID-19 patient."
+    ],
+    "age": " 50 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52402219/97e7366204e088b40e11e77b72e3ed_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 26": {
+    "presentation": [
+      "Admitted to ED with fever and shortness of breath"
+    ],
+    "age": " 55 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52447739/919b3948574fcec14cec7132bf7f62_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 27": {
+    "presentation": [
+      "Fever and dry cough for 4 days."
+    ],
+    "age": " 50 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52379267/7c38367c2b495ceb35e78027ad336a_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 28": {
+    "presentation": [
+      "Cough, shortness of breath and fever"
     ],
     "age": " 40 years\n",
     "gender": " Male\n",
     "img": [
       {
         "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52366910/14d81f378173b86cc53f21d2d67040_jumbo.jpeg"
+        "src": "https://prod-images-static.radiopaedia.org/images/52376922/5ed7d0109672bdd3d58a7db7841f6a_jumbo.jpeg"
       }
     ]
   },
-  "Case 13": {
+  "Case 29": {
+    "presentation": [
+      "Shortness of breath. O2 requirement. Rule out consolidation/ COVID."
+    ],
+    "age": " 45 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52354527/c94ef38ddb2d94aa11828716777139_jumbo.jpeg"
+      },
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52354713/d97cb29ff6cd51dddf141e76dcb64b_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 30": {
+    "presentation": [
+      "Dyspnea from 4 days ago."
+    ],
+    "age": " 80 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52385252/4713b1671d7962f8c7e8d14737955b_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 31": {
+    "presentation": [
+      "Fever and dyspnea from 5 days ago."
+    ],
+    "age": " 50 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52353901/0b17e349f575795ac8e487f6f38665_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 32": {
     "presentation": [
       "Brought to the ER due to general discomfort, dysthermic sensation although without fever, dizziness for 1 week, and associating bilious vomiting today. No cough, although he complained of dyspnea. No contact with positive COVID-19 patients or recent trips outside Spain. Previously in the same month, he attended the ER concerning a foot ulcer."
     ],
@@ -199,20 +511,76 @@
       }
     ]
   },
-  "Case 14": {
+  "Case 33": {
     "presentation": [
-      "Cough, shortness of breath and fever"
+      "Three days of high-grade fever with dry cough."
     ],
     "age": " 40 years\n",
     "gender": " Male\n",
     "img": [
       {
         "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52376922/5ed7d0109672bdd3d58a7db7841f6a_jumbo.jpeg"
+        "src": "https://prod-images-static.radiopaedia.org/images/52366910/14d81f378173b86cc53f21d2d67040_jumbo.jpeg"
       }
     ]
   },
-  "Case 15": {
+  "Case 34": {
+    "presentation": [
+      "Fever and cough."
+    ],
+    "age": " 45 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52310833/57645db8e49b6b9ef8bc97f6b35b49_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 35": {
+    "presentation": [
+      "Fever, cough and shortness of breath."
+    ],
+    "age": " 70 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52307929/0c3347723815fa1e0ad56bd3e7e927_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 36": {
+    "presentation": [
+      "Fever, cough and shortness of breath."
+    ],
+    "age": " 45 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52311255/ed2ad43bf811c950b07a584a9d4b6d_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 37": {
+    "presentation": [
+      "Fever and cough."
+    ],
+    "age": " 30 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52311219/dcb5878f17451e52fcaa9202d4c6b1_jumbo.jpeg"
+      },
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52311046/d8cb5c7388d03ef1a070ba93ebb591_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 38": {
     "presentation": [
       "Three days cough, myalgias and fever. No recent overseas travel. Only sick contact was her husband who was recently hospitalized with presumed community-acquired pneumonia but not tested for COVID-19.  Past history of vascath in-situ for dialysis on a background of chronic end-stage renal failure with dysfunctional A-V fistula. "
     ],
@@ -241,37 +609,251 @@
       }
     ]
   },
-  "Case 16": {
+  "Case 39": {
     "presentation": [
       "Fever and cough."
+    ],
+    "age": " 50 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52306736/31f25bbe12bbfef91bcd22d25341ea_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 40": {
+    "presentation": [
+      "Fever and cough."
+    ],
+    "age": " 65 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52306922/e966a260b43e6f5dbc2c9b07bd4ff0_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 41": {
+    "presentation": [
+      "Fever and cough."
+    ],
+    "age": " 60 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52298125/4e43e48d52c9e2d4c6c1fb9bc1544f_jumbo.jpeg"
+      },
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52298159/931f7cd630379ad31f20075ff8a7a5_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 42": {
+    "presentation": [
+      "Cough from 3 days ago."
+    ],
+    "age": " 55 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52144208/30ff39dba0fe3c5617058a6a2ac87f_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 43": {
+    "presentation": [
+      "Fever and cough."
+    ],
+    "age": " 50 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52298403/96522a73af8618e508cdbafc0acb95_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 44": {
+    "presentation": [
+      "Fever, cough and breath shortness."
+    ],
+    "age": " 65 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52314268/6ea91496317f31701aa274cd05b93f_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 45": {
+    "presentation": [
+      "PC: Dyspnea and fever.\nBG: Asthma, Cerebral palsy.\n\nClinically high risk on admission"
     ],
     "age": " 30 years\n",
     "gender": " Female\n",
     "img": [
       {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52311219/dcb5878f17451e52fcaa9202d4c6b1_jumbo.jpeg"
+        "title": "Initial X-ray",
+        "src": "https://prod-images-static.radiopaedia.org/images/52252310/d7b08174f3f6151654408d34fb8593_jumbo.jpeg"
       },
       {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52311046/d8cb5c7388d03ef1a070ba93ebb591_big_gallery.jpeg"
+        "title": "After 2 days on ICU",
+        "src": "https://prod-images-static.radiopaedia.org/images/52252311/221a595119abcd1cc91b930f34060e_jumbo.jpeg"
       }
     ]
   },
-  "Case 17": {
+  "Case 46": {
+    "presentation": [
+      "Four-day history of high-grade fever, cough and myalgia. On admission, the patient was tachycardic but maintained oxygen saturation on low flow. On auscultation, he had bilateral crackles and crepitations.\n"
+    ],
+    "age": " 65 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Initial CXR on admission",
+        "src": "https://prod-images-static.radiopaedia.org/images/52238418/6569c8c81140e5dd571f51ee6ae42a_jumbo.jpeg"
+      },
+      {
+        "title": "Day 4",
+        "src": "https://prod-images-static.radiopaedia.org/images/52240880/9451607643d1cd9c4570cdb1c48593_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 47": {
+    "presentation": [
+      "Fever and non-productive cough start from 5 days ago."
+    ],
+    "age": " 55 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Chest",
+        "src": "https://prod-images-static.radiopaedia.org/images/52233041/dfe3c86953c04a667d391c6afed42f_jumbo.jpeg"
+      },
+      {
+        "title": "Chest",
+        "src": "https://prod-images-static.radiopaedia.org/images/52233108/89fe136ceafc6ca91940e0d7dcba0a_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 48": {
+    "presentation": [
+      "Worsening dyspnea. Past history of COPD. T2DM. Previous pancreatectomy. ETOH excess. Lymphopenia on admission."
+    ],
+    "age": " 85 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Three days later",
+        "src": "https://prod-images-static.radiopaedia.org/images/52252099/be3f3f15e9cae046a755dc9473848c_jumbo.jpeg"
+      },
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52252100/0da264b842da6b0ac6e2e6f1da72f6_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 49": {
+    "presentation": [
+      "Fever, cough and chest pain from 5 days ago."
+    ],
+    "age": " 50 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "Initial CT at 5th day",
+        "src": "https://prod-images-static.radiopaedia.org/images/52232252/a202b47bda83989cb6615be3977291_big_gallery.jpeg"
+      },
+      {
+        "title": "Initial CT at 5th day",
+        "src": "https://prod-images-static.radiopaedia.org/images/52232337/6d00032c2b84e002f734a8f068b093_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 50": {
     "presentation": [
       "Fever and cough."
     ],
-    "age": " 45 years\n",
+    "age": " 65 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "CT scan performed 3 days after the normal chest xray.",
+        "src": "https://prod-images-static.radiopaedia.org/images/52296659/12bd7d95d4c06e37587073bd1cd03d_jumbo.jpeg"
+      },
+      {
+        "title": "CT scan performed 3 days after the normal chest xray.",
+        "src": "https://prod-images-static.radiopaedia.org/images/52296695/844322b1290543935e9f4095718189_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 51": {
+    "presentation": [
+      "Four-day history of dry cough, myalgia, pyrexia and sore throat. Admitted to hospital for worsening dyspnea. No past medical history. \n"
+    ],
+    "age": " 35 years\n",
+    "gender": " Female\n",
+    "img": [
+      {
+        "title": "Two days later",
+        "src": "https://prod-images-static.radiopaedia.org/images/52250382/5626fb96f86acbf11d87342185c3c5_jumbo.jpeg"
+      },
+      {
+        "title": "",
+        "src": "https://prod-images-static.radiopaedia.org/images/52250383/a6b02e3069a37b8abea2d1b79815b2_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 52": {
+    "presentation": [
+      "One week history of fever, dysuria. Presents to the ER with abdominal pain and nausea. No respiratory symptoms. Fever and elevated CRP. Hyperlipidemia and hypertension. "
+    ],
+    "age": " 70 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Abdomen",
+        "src": "https://prod-images-static.radiopaedia.org/images/52237351/6e30abfda89cc0e313cb4b98a78cae_big_gallery.jpeg"
+      }
+    ]
+  },
+  "Case 53": {
+    "presentation": [
+      "Fever and cough."
+    ],
+    "age": " 75 years\n",
     "gender": " Male\n",
     "img": [
       {
         "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52310833/57645db8e49b6b9ef8bc97f6b35b49_big_gallery.jpeg"
+        "src": "https://prod-images-static.radiopaedia.org/images/52298615/6fb59aa7413dc1b7547d82fb1a62e0_big_gallery.jpeg"
       }
     ]
   },
-  "Case 18": {
+  "Case 54": {
+    "presentation": [
+      "Recent onset of dry cough, severe dyspnea, fever and fatigue."
+    ],
+    "age": " 85 years\n",
+    "gender": " Male\n",
+    "img": [
+      {
+        "title": "Low dose thoracic CT",
+        "src": "https://prod-images-static.radiopaedia.org/images/52286653/0279e878c1193103224f677886edd7_big_gallery.jpeg"
+      },
+      {
+        "title": "Low dose thoracic CT",
+        "src": "https://prod-images-static.radiopaedia.org/images/52295798/c085f1e9cf087073b05c1128957db6_jumbo.jpeg"
+      }
+    ]
+  },
+  "Case 55": {
     "presentation": [
       "Fever, fatigue, dry cough and shortness of breath for 7 days. Traveled from Italy to Ukraine"
     ],
@@ -284,7 +866,7 @@
       }
     ]
   },
-  "Case 19": {
+  "Case 56": {
     "presentation": [
       "Patient admitted for heart failure. Developed fever and dyspnea during hospitalization. "
     ],
@@ -300,259 +882,24 @@
       }
     ]
   },
-  "Case 20": {
+  "Case 57": {
     "presentation": [
-      "Fever and cough."
+      "The patient presented on account of fever and urine symptoms 3 days  ago. Currently on antibiotics noted to start coughing with drop in his saturations today. Also having high grade fever COVID 19 swab taken today "
     ],
-    "age": " 50 years\n",
-    "gender": " Female\n",
+    "age": [],
+    "gender": [],
     "img": [
       {
         "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52306736/31f25bbe12bbfef91bcd22d25341ea_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 21": {
-    "presentation": [
-      "Attended the emergency department for progressive dyspnea in the last few days along with fever and cough. On the blood test, lymphopenia is detected. "
-    ],
-    "age": " 55 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "Chest",
-        "src": "https://prod-images-static.radiopaedia.org/images/52221946/8e98ec22ee304b4fb7b5434276bb79_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 22": {
-    "presentation": [
-      "This middle aged man attended the emergency room for a dysthymic sensation 2-3 times a day, breathing difficulty and dry cough. In the complementary tests, only lymphopenia and elevated CRP stand out.  Therefore, no coronavirus test was performed because he did not meet epidemiological criteria and the patient was discharged. "
-    ],
-    "age": " 50 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "Day 1",
-        "src": "https://prod-images-static.radiopaedia.org/images/52216849/32a46f77ff2a5acc2168b20b974cf8_jumbo.jpeg"
-      },
-      {
-        "title": "Day 1",
-        "src": "https://prod-images-static.radiopaedia.org/images/52216851/b4da827908ad8209137382e301cc24_jumbo.jpeg"
-      },
-      {
-        "title": "Day 1",
-        "src": "https://prod-images-static.radiopaedia.org/images/52216852/b418d50351b48ee58bcb4c2841e95b_jumbo.jpeg"
-      },
-      {
-        "title": "Day 4",
-        "src": "https://prod-images-static.radiopaedia.org/images/52216853/4d844df58f10acb17fc50351fd9440_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 23": {
-    "presentation": [
-      "One week history of fever, dysuria. Presents to the ER with abdominal pain and nausea. No respiratory symptoms. Fever and elevated CRP. Hyperlipidemia and hypertension. "
-    ],
-    "age": " 70 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "Abdomen",
-        "src": "https://prod-images-static.radiopaedia.org/images/52237351/6e30abfda89cc0e313cb4b98a78cae_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 24": {
-    "presentation": [
-      "An elderly male presenting with fever and cough.\n\n"
-    ],
-    "age": " 75 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "Day 1 chest x-ray",
-        "src": "https://prod-images-static.radiopaedia.org/images/52198249/bc4aafa5ad0aaa24a92afe73b06e74_jumbo.jpeg"
-      },
-      {
-        "title": "Day 1 chest x-ray",
-        "src": "https://prod-images-static.radiopaedia.org/images/52198251/9ad688b362b011bd3f7503799515ef_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 25": {
-    "presentation": [
-      "Fever and two days of odynophagia; positive test for SARS-CoV-2 RNA."
-    ],
-    "age": " 70 years\n",
-    "gender": " Female\n",
-    "img": [
-      {
-        "title": "On admission",
-        "src": "https://prod-images-static.radiopaedia.org/images/52197350/58cb9263f16e94305c730685358e4e_jumbo.jpeg"
-      },
-      {
-        "title": "On admission",
-        "src": "https://prod-images-static.radiopaedia.org/images/52197352/9fdd3c3032296fd04d2cad5d9070d4_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 26": {
-    "presentation": [
-      "Fever and odynophagia. Trip to Italy 7 days ago.\n\nLow oxygen saturation (SpO2 89%) and lymphopenia were observed.\n\nThe patient presented clinical worsening during his stay in the emergency department, and radiological control was performed at 12 hours.\n\nSARS-CoV-2 RNA was detected."
-    ],
-    "age": " 60 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "On admission",
-        "src": "https://prod-images-static.radiopaedia.org/images/52197347/a36d7944927e369c90035d4fcbb7af_jumbo.jpeg"
-      },
-      {
-        "title": "12 hours later",
-        "src": "https://prod-images-static.radiopaedia.org/images/52197349/c02786050656210c20eb86d3bc0d48_jumbo.jpeg"
-      },
-      {
-        "title": "Three days later",
-        "src": "https://prod-images-static.radiopaedia.org/images/52197348/df1053d3e8896b53ef140773e10e26_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 27": {
-    "presentation": [
-      "Fever, cough and shortness of breath."
-    ],
-    "age": " 70 years\n",
-    "gender": " Female\n",
-    "img": [
-      {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52307929/0c3347723815fa1e0ad56bd3e7e927_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 28": {
-    "presentation": [
-      "Fever, shortness of breath, desaturation."
-    ],
-    "age": " 75 years\n",
-    "gender": " Female\n",
-    "img": [
-      {
-        "title": "AP sitting",
-        "src": "https://prod-images-static.radiopaedia.org/images/52192468/201b87f9902cce6732917d2f292bd3_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 29": {
-    "presentation": [
-      "Fever and cough for a few days."
-    ],
-    "age": " 80\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52221785/78331427ccc2886655edf78d6a7c3e_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 30": {
-    "presentation": [
-      "Fever and cough."
-    ],
-    "age": " 65 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52306922/e966a260b43e6f5dbc2c9b07bd4ff0_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 31": {
-    "presentation": [
-      "Dry cough and fever. On arrival to Emergency Room, SpO2 of 89% and lymphopenia."
-    ],
-    "age": " 70 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "Two days earlier",
-        "src": "https://prod-images-static.radiopaedia.org/images/52197344/61c6828be4bb24b9e29e6ebfcfec0a_jumbo.jpeg"
-      },
-      {
-        "title": "Two days earlier",
-        "src": "https://prod-images-static.radiopaedia.org/images/52197345/e493ebb5ce513a0ad49237f008595b_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 32": {
-    "presentation": [
-      "Fever and dyspnea.\n\n"
-    ],
-    "age": " 25 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52143631/7634214ef96187d81f97903c801030_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 33": {
-    "presentation": [
-      "Six days self-isolating with fever. Progressive respiratory effort. Lymphopenic on presentation (1.2)."
-    ],
-    "age": " 55 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "Index CXR",
-        "src": "https://prod-images-static.radiopaedia.org/images/52213151/a092a272b78ce7c23e6a490721b750_jumbo.jpeg"
-      },
-      {
-        "title": "CXR 12h after presentation",
-        "src": "https://prod-images-static.radiopaedia.org/images/52213152/11368d1bfb309b273d60a7138dae35_jumbo.jpeg"
-      },
-      {
-        "title": "CXR day 6",
-        "src": "https://prod-images-static.radiopaedia.org/images/52213153/7848bf2d6be7318bf1457253990d25_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 34": {
-    "presentation": [
-      "Dry cough, chest pain and dyspnea"
-    ],
-    "age": " 45 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52141355/64319e81ba4e074e0a485a661000eb_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 35": {
-    "presentation": [
-      "Presented to ED with respiratory distress and dyspnea"
-    ],
-    "age": " 75 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "One day later",
-        "src": "https://prod-images-static.radiopaedia.org/images/52140612/7638287d2c85c0fa931e918ac385e6_big_gallery.jpeg"
+        "src": "https://prod-images-static.radiopaedia.org/images/52303385/8781ac6b9589f3646d2bbfff8f9015_jumbo.jpeg"
       },
       {
         "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52140940/092a320812722a9fdaa4aeb645868f_jumbo.jpeg"
+        "src": "https://prod-images-static.radiopaedia.org/images/52303338/92acde6891082e5f336a60a457ac9a_big_gallery.jpeg"
       }
     ]
   },
-  "Case 36": {
+  "Case 58": {
     "presentation": [
       "New oxygen demands and bibasal crepitations."
     ],
@@ -589,20 +936,7 @@
       }
     ]
   },
-  "Case 37": {
-    "presentation": [
-      "Elderly male, COVID-19 positive. Fever and elevated C-reactive protein."
-    ],
-    "age": [],
-    "gender": [],
-    "img": [
-      {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52180311/8549249b763152e944d3ad092a2a2d_jumbo.jpeg"
-      }
-    ]
-  },
-  "Case 38": {
+  "Case 59": {
     "presentation": [
       "Fever, dyspnea, cough and sputum production."
     ],
@@ -615,45 +949,7 @@
       }
     ]
   },
-  "Case 39": {
-    "presentation": [
-      "Recent travel from endemic COVID-19 region. 24 hours confusion with new temperature and desaturation on assessment."
-    ],
-    "age": " 70 years\n",
-    "gender": " Male\n",
-    "img": [
-      {
-        "title": "Index CXR",
-        "src": "https://prod-images-static.radiopaedia.org/images/52212995/8a7486782d3933ccd9aefbce323169_jumbo.jpeg"
-      },
-      {
-        "title": "Day 3 CXR",
-        "src": "https://prod-images-static.radiopaedia.org/images/52212997/af5e777fb7200430ddf3de394afc39_jumbo.jpeg"
-      },
-      {
-        "title": "Worsening oxygenation - day 9 CXR",
-        "src": "https://prod-images-static.radiopaedia.org/images/52212998/e7b1991f06f384ff09224d006b4042_jumbo.jpeg"
-      },
-      {
-        "title": "Day 13 - performed to assess degree of lung injury",
-        "src": "https://prod-images-static.radiopaedia.org/images/52213036/b08b025a70a7e0d7318ad1232a1ff7_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 40": {
-    "presentation": [
-      "Fever and dyspnea for five days. Recent travel."
-    ],
-    "age": " 60 years\n",
-    "gender": " Female\n",
-    "img": [
-      {
-        "title": "",
-        "src": "https://prod-images-static.radiopaedia.org/images/52084557/8dc782c395dba8491b485bf424b7cd_big_gallery.jpeg"
-      }
-    ]
-  },
-  "Case 41": {
+  "Case 60": {
     "presentation": [
       "Fever, cough, breathing difficulties for about ten days."
     ],
