@@ -92,6 +92,8 @@ class CTScanImageSpider(CrawlSpider):
 
       with open('data.json', 'w') as outfile:
         json.dump(imageList, outfile, indent=2)
+
+        
     else:
       print('exit')
       raise CloseSpider(reason='API usage exceeded')
